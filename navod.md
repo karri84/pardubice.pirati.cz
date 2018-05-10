@@ -1,4 +1,4 @@
-# Návod pro Pirátský web - Pardubicky kraj
+# Návod pro Pirátský web - Pardubicky kraj 2
 
 Zdrojové kódy webu: **https://github.com/pirati-web/pardubicky.pirati.cz**
 
